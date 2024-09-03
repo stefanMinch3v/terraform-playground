@@ -1,0 +1,5 @@
+1.terraform init
+2.terraform plan
+3.terraform apply
+
+https://www.udemy.com/course/terraform-fast-track
